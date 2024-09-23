@@ -1,0 +1,7 @@
+surface_type,theta_adv,theta_rec,theta_sliding
+hydrophobic_slippery,100,93,8
+hydrophilic_slippery,43,34,7
+hydrophilic_non_slippery,28,14,28
+hydrophobic_non_slippery,111,100,11
+Hydrophobic_Vapor_Deposition,128,93,30
+
